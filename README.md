@@ -1,2 +1,0 @@
-# Kohinoor
-App design 
